@@ -6,6 +6,8 @@ This project uses logistic regression and sentiment analysis to predict whether 
 - `tweet_model.ipynb` – Jupyter Notebook containing the full data pipeline and model
 - `data/tweets.csv` – Sample dataset of tweets
 - `visuals/accuracy.png` – Model performance visualization
+- 📄 [Detailed Report (Google Drive)](https://drive.google.com/file/d/1z8_i2_Zslfa20xfeOZgHP26RRZiPpYby/view)
+
 
 ## 🧠 Tools Used
 - Python
@@ -26,3 +28,4 @@ This project uses logistic regression and sentiment analysis to predict whether 
 ## 🚀 Future Improvements
 - Integrate Twitter API for real-time predictions
 - Explore NLP-based classification with transformers
+
